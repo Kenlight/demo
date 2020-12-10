@@ -1,4 +1,4 @@
-vue-datepicker-mobile
+vue-datepicker-mobile  原文地址：https://github.com/ikarosu/vue-datepicker-mobile/blob/v2/doc/zh-hans.md
 996.icu LICENSE
 
 v2
